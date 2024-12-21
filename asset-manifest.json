@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/igorcretu/StoryGame.git/static/css/main.5101f328.css",
-    "main.js": "/igorcretu/StoryGame.git/static/js/main.ef466573.js",
-    "static/js/453.50469197.chunk.js": "/igorcretu/StoryGame.git/static/js/453.50469197.chunk.js",
+    "main.js": "/igorcretu/StoryGame.git/static/js/main.95a77dc9.js",
+    "static/js/453.35393c7a.chunk.js": "/igorcretu/StoryGame.git/static/js/453.35393c7a.chunk.js",
     "index.html": "/igorcretu/StoryGame.git/index.html",
     "main.5101f328.css.map": "/igorcretu/StoryGame.git/static/css/main.5101f328.css.map",
-    "main.ef466573.js.map": "/igorcretu/StoryGame.git/static/js/main.ef466573.js.map",
-    "453.50469197.chunk.js.map": "/igorcretu/StoryGame.git/static/js/453.50469197.chunk.js.map"
+    "main.95a77dc9.js.map": "/igorcretu/StoryGame.git/static/js/main.95a77dc9.js.map",
+    "453.35393c7a.chunk.js.map": "/igorcretu/StoryGame.git/static/js/453.35393c7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5101f328.css",
-    "static/js/main.ef466573.js"
+    "static/js/main.95a77dc9.js"
   ]
 }
